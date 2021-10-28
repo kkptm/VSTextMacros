@@ -62,7 +62,7 @@
                 <Strings>
                     <CommandName>PlaybackMacroMultipleTimes</CommandName>
                     <LocCanonicalName>PlaybackMacroMultipleTimes</LocCanonicalName>
-                    <ButtonText>多次回放宏 &amp;times...</ButtonText>
+                    <ButtonText>多次回放宏 &amp;次</ButtonText>
                 </Strings>
             </Button>
 
@@ -93,7 +93,7 @@
                 <Strings>
                     <CommandName>OpenMacrosDirectory</CommandName>
                     <LocCanonicalName>OpenMacrosDirectory</LocCanonicalName>
-                    <ButtonText>打开宏 &amp;Directory</ButtonText>
+                    <ButtonText>打开宏 &amp;目录</ButtonText>
                 </Strings>
             </Button>
 

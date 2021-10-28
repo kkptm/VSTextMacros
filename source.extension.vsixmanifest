@@ -4,7 +4,7 @@
         <Identity Id="6d613d99-e83f-4532-a1d8-e188e419475a" Version="1.0.2" Language="en-US" Publisher="KKP" />
         <DisplayName>Text Macros for Visual Studio 2022</DisplayName>
         <Description xml:space="preserve">Brings back text-editing/keyboard macro support in VS 2019</Description>
-        <MoreInfo>https://github.com/xps/vstextmacros</MoreInfo>
+        <MoreInfo>https://github.com/kkptm/VSTextMacros</MoreInfo>
         <License>License.txt</License>
         <ReleaseNotes>Documentation\ReleaseNotes.txt</ReleaseNotes>
         <PreviewImage>Documentation\screenshot.png</PreviewImage>
