@@ -1,0 +1,58 @@
+﻿1.16 - Apr 17, 2021
+	Support for loading extra recordable commands from an external file
+	Added "Duplicate" to recordable commands
+	Added a menu item to open the macros directory in Explorer
+
+1.15 - Aug 22, 2020
+    Support for Find operations
+    Added macro names in playback menu
+    Automatically stop recording on playback
+
+1.14 - Nov 10, 2019
+    Fixed reodering macros
+
+1.13 - Sep 30, 2019
+    Support for Visual Studio 2019
+
+1.12 - Dec 10, 2018
+    New recorded commands: "Go to brace" and outlining commands
+
+1.11 - Aug 15, 2018
+    Added shortcuts to run saved macros
+
+1.10 - Apr 23, 2017
+    Support for Visual Studio 2017
+    Playback macros in a single undo transaction
+
+1.9 - May 17, 2016
+    Fixed saving macros
+
+1.8 - May 5, 2016
+    Added option to save macros
+
+1.7 - Aug 8, 2015
+    Fixed support for VS 2012/2013
+
+1.6 - Jul 21, 2015
+    Support for Visual Studio 2015
+    
+1.5 - Jul 8, 2014
+    Added "Edit.LineFirstColumn" as a recordable command
+    
+1.4 - Dec 7, 2013
+    Added menu to repeat macro a given number of times
+
+1.3 - Nov 28, 2013
+    Fixed macros not working in certain file types (HTML...)
+    Recording additional edit commands (format selection, comment/uncomment selection...)
+
+1.2 - Oct 24, 2013
+    Support for Visual Studio 2013
+    Added 'Ctrl+Shift+R' shortcut to match previous VS versions
+
+1.1 - Feb 8, 2013
+    Added visual cue while recording
+    Currrent macro now persists across sessions
+
+1.0 - Nov 13, 2012
+    Initial version

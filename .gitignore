@@ -1,0 +1,15 @@
+# Compilation results
+[Bb]in
+[Oo]bj
+
+# User config files
+.vs
+*.user
+*.suo
+
+# Backup files
+*.bak
+*.orig
+
+# NuGet packages
+packages
